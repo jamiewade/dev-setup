@@ -10,12 +10,14 @@
 AMD Radeon Pro 5300M 4 GB
 
 ## Dev Software
-- PhpStorm (IDE)
+- WebStorm (IDE)
 - iTerm & Oh My Zsh (Terminal)
-- Brave (Browser)
+- Chrome (Browser)
 - Laravel Valet (localhost)
 - Docker (MySQL server)
+- Node & NPM (NVM)
 - tablePlus (Database manager)
 
 ## Miscellaneous Software
+- Lunar (Screen brightness manager)
 - Rectangle (Window manager)
