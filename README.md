@@ -10,7 +10,7 @@
 AMD Radeon Pro 5300M 4 GB
 
 ## Dev Software
-- WebStorm (IDE)
+- VS Code (IDE)
 - iTerm & Oh My Zsh (Terminal)
 - Chrome (Browser)
 - Laravel Valet (localhost)
