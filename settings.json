@@ -1,15 +1,29 @@
 {
+	"editor.fontFamily": "DankMono-Regular",
 	"editor.cursorBlinking": "expand",
-	"editor.detectIndentation": false,
-	"editor.fontSize": 13,
 	"editor.insertSpaces": false,
-	"editor.fontFamily": "JetBrains Mono",
-	"editor.fontLigatures": true,
-	"editor.lineHeight": 1.9,
-	"editor.tabCompletion": "on",
-	"editor.tabSize": 2,
+	"editor.fontSize": 15,
 	"explorer.confirmDelete": false,
+	"editor.formatOnSave": true,
+	"workbench.tree.indent": 15,
+	"editor.detectIndentation": false,
+	"editor.fontLigatures": true,
+	"workbench.colorTheme": "Shades of Purple",
+	"editor.tabSize": 2,
+	"files.associations": {
+		"*.css": "postcss",
+		"*.js": "javascriptreact"
+	},
+	"editor.accessibilitySupport": "off",
 	"files.insertFinalNewline": true,
-	"workbench.colorTheme": "Ayu Mirage Bordered",
-	"workbench.tree.indent": 20
+	"editor.lineHeight": 25,
+	"explorer.confirmDragAndDrop": false,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"postcss": "css",
+		"twig": "html"
+	},
+	"terminal.integrated.env.osx": {
+		"FIG_NEW_SESSION": "1"
+	}
 }
