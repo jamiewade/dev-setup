@@ -3,9 +3,9 @@
 	"editor.cursorBlinking": "expand",
 	"editor.detectIndentation": false,
 	"editor.fontFamily": "DankMono-Regular",
+	"editor.fontLigatures": true,
 	"editor.fontSize": 15,
 	"editor.formatOnSave": true,
-	"editor.fontLigatures": true,
 	"editor.insertSpaces": false,
 	"editor.lineHeight": 25,
 	"editor.tabSize": 2,
@@ -14,16 +14,12 @@
 		"postcss": "css",
 		"twig": "html"
 	},
-	"explorer.confirmDelete": false,
-	"explorer.confirmDragAndDrop": false,
 	"files.associations": {
 		"*.css": "postcss",
 		"*.js": "javascriptreact"
 	},
 	"files.insertFinalNewline": true,
-	"terminal.integrated.env.osx": {
-		"FIG_NEW_SESSION": "1"
-	},
+	"files.trimFinalNewlines": true,
 	"workbench.colorTheme": "Shades of Purple",
 	"workbench.tree.indent": 15
 }

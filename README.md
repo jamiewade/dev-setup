@@ -13,10 +13,9 @@
 - Chrome (Browser)
 - Laravel Valet (localhost)
 - Node & NPM (NVM)
-- DBngin (MySQL server)
+- Docker / DBngin (MySQL server)
 - tablePlus (Database manager)
 
 ## Miscellaneous Software
-- Fig (Terminal autocomplete)
 - Lunar (Screen brightness manager)
 - Rectangle (Window manager)
