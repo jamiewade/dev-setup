@@ -16,6 +16,7 @@
 	},
 	"files.associations": {
 		"*.css": "postcss",
+		"*.env*": "properties",
 		"*.js": "javascriptreact"
 	},
 	"files.insertFinalNewline": true,
