@@ -11,7 +11,7 @@
 ## Dev Software
 
 - VS Code (IDE)
-- Hyper & Oh My Zsh (Terminal)
+- Hyper, Oh My Zsh, & [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) (Terminal)
 - Chrome (Browser)
 - Laravel Valet (localhost)
 - Node & NPM (NVM)
