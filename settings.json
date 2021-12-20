@@ -1,13 +1,15 @@
 {
 	"editor.accessibilitySupport": "off",
 	"editor.cursorBlinking": "expand",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.detectIndentation": false,
 	"editor.fontFamily": "DankMono-Regular",
 	"editor.fontLigatures": true,
-	"editor.fontSize": 16.75,
+	"editor.fontSize": 15.5,
+	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
 	"editor.insertSpaces": false,
-	"editor.lineHeight": 28,
+	"editor.lineHeight": 26,
 	"editor.tabSize": 2,
 	"emmet.includeLanguages": {
 		"javascript": "javascriptreact",
@@ -21,6 +23,12 @@
 	},
 	"files.insertFinalNewline": true,
 	"files.trimFinalNewlines": true,
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
+	"window.zoomLevel": 0.25,
 	"workbench.colorTheme": "Shades of Purple",
-	"workbench.tree.indent": 15
+	"workbench.tree.indent": 15,
+	"[html]": {
+		"editor.defaultFormatter": null
+	}
 }
