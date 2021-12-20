@@ -10,12 +10,12 @@
 
 ## Dev Software
 
-- VS Code (IDE)
-- Hyper, Oh My Zsh, & [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) (Terminal)
+- [VS Code](https://code.visualstudio.com) (IDE)
+- [Hyper](https://hyper.is), [Oh My Zsh](https://ohmyz.sh), & [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) (Terminal)
 - Chrome (Browser)
 - Laravel Valet (localhost)
 - Node & NPM (NVM)
-- Docker / DBngin (MySQL server)
+- Docker (MySQL server)
 - tablePlus (Database manager)
 
 ## Miscellaneous Software
