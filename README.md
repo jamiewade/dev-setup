@@ -22,3 +22,17 @@
 
 - Lunar (Screen brightness manager)
 - Rectangle (Window manager)
+
+## VS Code Plugins
+
+- [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language)
+
+## Notes
+
+- Composer memory limit `/usr/local/etc/php/7.3/conf.d/php-memory-limits.ini`
