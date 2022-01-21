@@ -27,8 +27,6 @@
 	"prettier.useTabs": true,
 	"window.zoomLevel": 0.25,
 	"workbench.colorTheme": "Shades of Purple",
-	"workbench.tree.indent": 15,
-	"[html]": {
-		"editor.defaultFormatter": null
-	}
+	"workbench.startupEditor": "none",
+	"workbench.tree.indent": 15
 }
