@@ -10,6 +10,7 @@
 	"editor.formatOnSave": true,
 	"editor.insertSpaces": false,
 	"editor.lineHeight": 26,
+	"editor.minimap.enabled": false,
 	"editor.tabSize": 2,
 	"emmet.includeLanguages": {
 		"javascript": "javascriptreact",
@@ -28,5 +29,8 @@
 	"window.zoomLevel": 0.25,
 	"workbench.colorTheme": "Shades of Purple",
 	"workbench.startupEditor": "none",
-	"workbench.tree.indent": 15
+	"workbench.tree.indent": 15,
+	"[twig]": {
+		"editor.defaultFormatter": null
+	}
 }
