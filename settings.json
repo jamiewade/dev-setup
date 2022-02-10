@@ -30,7 +30,11 @@
 	"workbench.colorTheme": "Shades of Purple",
 	"workbench.startupEditor": "none",
 	"workbench.tree.indent": 15,
+	"[postcss]": {
+		"editor.tabSize": 3
+	},
 	"[twig]": {
-		"editor.defaultFormatter": null
+		"editor.defaultFormatter": null,
+		"editor.tabSize": 3
 	}
 }
