@@ -12,16 +12,17 @@
 
 - [VS Code](https://code.visualstudio.com) (IDE)
 - [Hyper](https://hyper.is), [Oh My Zsh](https://ohmyz.sh), & [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) (Terminal)
-- Chrome (Browser)
-- Laravel Valet (localhost)
-- Node & NPM (NVM)
-- Docker (MySQL server)
-- tablePlus (Database manager)
+- [RunJS](https://runjs.app) (JavaScript testing environment)
+- [Laravel Valet](https://laravel.com/docs/9.x/valet) (localhost)
+- [Node](https://nodejs.org/en) & [NPM](https://www.npmjs.com) (NVM)
+- [Docker](https://www.docker.com) (MySQL server)
+- [tablePlus](https://tableplus.com) (Database manager)
 
 ## Miscellaneous Software
 
-- Lunar (Screen brightness manager)
-- Rectangle (Window manager)
+- [Chrome](https://www.google.com/intl/en_uk/chrome) (Browser)
+- [Lunar](https://lunar.fyi) (Screen brightness manager)
+- [Rectangle](https://rectangleapp.com) (Window manager)
 
 ## VS Code Plugins
 
