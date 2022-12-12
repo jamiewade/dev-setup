@@ -1,40 +1,45 @@
 {
-	"editor.accessibilitySupport": "off",
 	"editor.cursorBlinking": "expand",
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.detectIndentation": false,
 	"editor.fontFamily": "DankMono-Regular",
 	"editor.fontLigatures": true,
-	"editor.fontSize": 15.5,
-	"editor.formatOnPaste": true,
+	"editor.fontSize": 15,
 	"editor.formatOnSave": true,
 	"editor.insertSpaces": false,
-	"editor.lineHeight": 26,
+	"editor.lineHeight": 30,
 	"editor.minimap.enabled": false,
-	"editor.tabSize": 2,
+	"editor.tabSize": 4,
 	"emmet.includeLanguages": {
-		"javascript": "javascriptreact",
-		"postcss": "css",
 		"twig": "html"
 	},
+	"explorer.confirmDelete": false,
 	"files.associations": {
-		"*.css": "postcss",
-		"*.env*": "properties",
-		"*.js": "javascriptreact"
+		"*.html": "twig"
 	},
 	"files.insertFinalNewline": true,
 	"files.trimFinalNewlines": true,
-	"prettier.tabWidth": 2,
 	"prettier.useTabs": true,
-	"window.zoomLevel": 0.25,
-	"workbench.colorTheme": "Shades of Purple",
-	"workbench.startupEditor": "none",
+	"window.zoomLevel": 0.2,
+	"workbench.colorTheme": "Shades of Purple (Super Dark)",
 	"workbench.tree.indent": 15,
-	"[postcss]": {
-		"editor.tabSize": 3
+	"[json]": {
+		"editor.tabSize": 2
+	},
+	"[jsonc]": {
+		"editor.tabSize": 2
+	},
+	"[markdown]": {
+		"files.insertFinalNewline": false
+	},
+	"[php]": {
+		"editor.tabSize": 8
 	},
 	"[twig]": {
-		"editor.defaultFormatter": null,
-		"editor.tabSize": 3
+		"editor.formatOnSave": false
+	},
+	"[yaml]": {
+		"editor.formatOnSave": false,
+		"editor.tabSize": 2
 	}
 }
