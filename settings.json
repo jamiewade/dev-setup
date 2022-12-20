@@ -22,6 +22,7 @@
 	"prettier.useTabs": true,
 	"window.zoomLevel": 0.2,
 	"workbench.colorTheme": "Shades of Purple (Super Dark)",
+	"workbench.iconTheme": "material-icon-theme",
 	"workbench.tree.indent": 15,
 	"[json]": {
 		"editor.tabSize": 2
