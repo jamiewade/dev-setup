@@ -13,7 +13,7 @@
 ## Dev Software
 
 - [VS Code](https://code.visualstudio.com) (IDE)
-- [Hyper](https://hyper.is), [Oh My Zsh](https://ohmyz.sh), & [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) (Terminal)
+- [iTerm](https://iterm2.com/), [Oh My Zsh](https://ohmyz.sh), & [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) (Terminal)
 - [Laravel Valet](https://laravel.com/docs/9.x/valet) (localhost)
 - [Node](https://nodejs.org/en) & [NPM](https://www.npmjs.com) (NVM)
 - [DBngin](https://dbngin.com) (MySQL server)
