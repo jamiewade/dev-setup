@@ -38,4 +38,5 @@
 
 ## Notes
 
-- Composer memory limit `/usr/local/etc/php/7.3/conf.d/php-memory-limits.ini`
+- Composer memory limit `/opt/homebrew/etc/php/8.2/conf.d/php-memory-limits.ini`
+- PHP `max_input_vars` `/opt/homebrew/etc/php/8.2/php.ini`
